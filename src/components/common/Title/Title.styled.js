@@ -6,4 +6,5 @@ export const Title = styled.p`
 
   font-weight: 600;
   font-size: 24px;
+  color: #8497bd;
 `;

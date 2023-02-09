@@ -5,6 +5,7 @@ export const Button = styled.button`
   margin-right: 10px;
   margin-bottom: 25px;
 
+  text-transform: capitalize;
   background-color: #f4f5ff;
   border: 2px solid #8497bd;
   border-radius: 4px;
@@ -12,6 +13,6 @@ export const Button = styled.button`
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   &:hover {
-    background-color: #e7e9fe;
+    background-color: #a7aeff;
   }
 `;
